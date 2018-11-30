@@ -1,8 +1,9 @@
 package rk;
 
-public class sdfghj {
+public class zzzzz {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
 	}
 
